@@ -1,0 +1,2 @@
+<blockquote class="embedly-card"><h4><a href="https://codeburst.io/the-future-of-web-gotta-go-fast-91631fdadd6c">The Future of Web: Gotta Go Fast - codeburst</a></h4><p>If you took the time to read the blog that this is a follow up to by Adam Grimley, then you'll know of some of the technologies we think are the most promising.</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
